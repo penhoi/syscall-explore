@@ -36,5 +36,5 @@ run: all
 
 
 clean:
-	rm -f ${ALL_targets}
+	rm -f ${ALL_targets} a.out
 	rm -rf ${BUILD_DIR}
